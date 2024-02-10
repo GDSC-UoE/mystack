@@ -39,6 +39,16 @@
       },
       "stack": ["JavaScript", "React", "Node.js", "MongoDB"],
       "id": 21
+    },
+    {
+      "name": "Sherlock Holmes",
+      "links": {
+        "github": "https://github.com/sholmes",
+        "linkedin": "https://www.linkedin.com/in/",
+        "twitter": "https://twitter.com/Robin261658151"
+      },
+      "stack": ["Python", "Scratch", "Css"],
+      "id": 69
     }
   ]
 }
