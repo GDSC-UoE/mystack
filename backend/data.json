@@ -40,5 +40,15 @@
       "stack": ["JavaScript", "React", "Node.js", "MongoDB"],
       "id": 21
     }
+      "name": "Kevin Yegon",
+      "links": {
+        "github": "https://github.com/sholmes",
+        "linkedin": "https://www.linkedin.com/in/shlerlock",
+        "twitter": "https://twitter.com/johndoe"
+      },
+      "stack": ["JavaScript", "React", "Node.js", "MongoDB"],
+      "id": 21
+    {
+    
   ]
 }
