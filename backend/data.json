@@ -39,6 +39,15 @@
       },
       "stack": ["JavaScript", "React", "Node.js", "MongoDB"],
       "id": 21
+      {
+      "name": "oscar kamau",
+      "links": {
+        "github": "https://github.com/oscargithublkknc",
+        "linkedin": "https://www.linkedin.com/in/mr.bluepips",
+        "twitter": "https://twitter.com/mrbluepips"
+      },
+      "stack": ["JavaScript", "React", "Node.js", "MongoDB"],
+      "id": b4l
     }
   ]
 }
