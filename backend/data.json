@@ -49,16 +49,6 @@
       },
       "stack": ["JavaScript", "React", "HTML", "CSS"],
       "id": 30
-    },
-    {
-      "name": "Shadrack Kimaau",
-      "links": {
-        "github": "https://github.com/shaddy1234",
-        "linkedin": "www.linkedin.com/in/shadrack-kimaau-8b84a4278",
-        "twitter": "https://twitter.com/shadrack_kimaau"
-      },
-      "stack": ["JavaScript", "React", "HTML", "CSS"],
-      "id": 30
     }
   ]
 }
