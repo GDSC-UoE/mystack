@@ -39,6 +39,17 @@
       },
       "stack": ["JavaScript", "React", "Node.js", "MongoDB"],
       "id": 21
+    },
+    {
+      "name":"Sheldon Muboka",
+      "links":{
+        "github":"https://www.github.com/sheldon34",
+        "linkedin":"https://www.linkedin.com/in/mubokaxdon",
+        "twitter":"https://www.twitter.com/sheldon",
+    },
+      {
+      "stack":["HTML","CSS","Javascript"],
+      "id":34
     }
        {
       "name": "Frankline Kimtai",
