@@ -50,5 +50,15 @@
       "stack": ["Python", "Scratch", "Css"],
       "id": 69
     }
+       {
+      "name": "Frankline Kimtai",
+      "links": {
+        "github": "https://github.com/kimtai1",
+        "linkedin": "https://www.linkedin.com/in/Frankline Kimtai",
+        "twitter": "https://twitter.com/franklineL15777"
+      },
+      "stack": ["JavaScript", "React", "Node.js", "MongoDB"],
+      "id": 21
+    }
   ]
 }
