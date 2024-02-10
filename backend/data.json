@@ -39,6 +39,16 @@
       },
       "stack": ["JavaScript", "React", "Node.js", "MongoDB"],
       "id": 21
+    },
+    {
+      "name": "Kipsang Kevin",
+      "links": {
+        "github": "https://github.com/boinam",
+        "linkedin": "https://www.linkedin.com/in/Boinam",
+        "twitter": "https://twitter.com/boinam_254"
+      },
+      "stack": ["JavaScript", "React", "Node.js", "MongoDB"],
+      "id": 20
     }
   ]
 }
