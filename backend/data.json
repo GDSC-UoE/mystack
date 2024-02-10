@@ -39,6 +39,16 @@
       },
       "stack": ["JavaScript", "React", "Node.js", "MongoDB"],
       "id": 21
+    },
+    {
+      "name": "Lawrence Kimani",
+      "links": {
+        "github": "https://github.com/lawrenzo-pro",
+        "linkedin": "https://www.linkedin.com/in/lauriekimani",
+        "twitter": "https://twitter.com/lauriekimani"
+      },
+      "stack": ["C", "Tinygo", "Rust"],
+      "id": 2197
     }
        {
       "name": "Frankline Kimtai",
