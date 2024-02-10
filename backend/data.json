@@ -39,6 +39,16 @@
       },
       "stack": ["JavaScript", "React", "Node.js", "MongoDB"],
       "id": 21
-    }
+    },
+     {
+      "name": "Jeffrey Cane Misigo",
+      "links": {
+        "github": "https://github.com/Jeffrey-Cane",
+        "linkedin": "https://www.linkedin.com/in/jeffreymisigo",
+        "twitter": "https://twitter.com/cane_ft"
+      },
+      "stack": ["JavaScript", "Cybersecurity"],
+      "id": 20
+    },
   ]
 }
