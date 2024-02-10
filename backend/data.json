@@ -1,11 +1,11 @@
 {
   "devs": [
     {
-      "name": "Holga Kilgore",
+      "name": "john doe",
       "links": {
         "github": "https://github.com/johndoe",
         "linkedin": "https://www.linkedin.com/in/johndoe",
-        "twitter": "https://twitter.com/johndoe"
+       "twitter": "https://twitter.com/johndoe"
       },
       "stack": ["JavaScript", "React", "Node.js", "MongoDB"],
       "id": 1
@@ -39,6 +39,15 @@
       },
       "stack": ["JavaScript", "React", "Node.js", "MongoDB"],
       "id": 21
+      {
+       "name": "Kimberly Amira",
+      "links": {
+        "github": "https://github.com/Melamir",
+        "linkedin": "https://www.linkedin.com/in/KimberlyAmiraI",
+        "instagram": "https://instagram.com/melan.in_madnss"      
+      },
+      "stack": ["JavaScript", "python", "html", "css"],
+       "id": 69
     }
        {
       "name": "Frankline Kimtai",
