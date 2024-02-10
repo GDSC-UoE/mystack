@@ -39,6 +39,15 @@
       },
       "stack": ["JavaScript", "React", "Node.js", "MongoDB"],
       "id": 21
+    },{
+      "name": "David Polycarp",
+      "links": {
+        "gitgub": "https://github.com/dhecaptain",
+        "linkedin": "https://www.linkedin.com/feed/",
+        "twitter": "https://twitter.com/@polycarp_geen"
+      },
+      "stack": ["Python", "Javascript", "Django", "MongoDB","Mysql"],
+      "id": 001
     }
        {
       "name": "Frankline Kimtai",
