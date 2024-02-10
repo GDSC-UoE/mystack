@@ -39,6 +39,16 @@
       },
       "stack": ["JavaScript", "React", "Node.js", "MongoDB"],
       "id": 21
-    }
+    },
+    {
+      "name": "peter kimani ",
+      "links": {
+        "github": "https://github.com/Zyu",
+        "linkedin": "https://www.linkedin.com/in/peter-kimani",
+        "twitter": "https://twitter.com/its_foss"
+      },
+      "stack": ["html", "Django", "Kubernetes"],
+      "id": 34398
+    },
   ]
 }
